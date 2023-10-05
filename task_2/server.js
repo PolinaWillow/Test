@@ -1,5 +1,5 @@
 import express  from 'express'
-import fetch from ('node-fetch');
+import fetch from 'node-fetch';
 
 //Полчуение значения порта
 const PORT = 5000;
